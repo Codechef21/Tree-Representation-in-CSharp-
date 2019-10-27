@@ -1,0 +1,11 @@
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/bin/Debug/netcoreapp3.0/RepresentationOfTree
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/bin/Debug/netcoreapp3.0/RepresentationOfTree.deps.json
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/bin/Debug/netcoreapp3.0/RepresentationOfTree.runtimeconfig.json
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/bin/Debug/netcoreapp3.0/RepresentationOfTree.runtimeconfig.dev.json
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/bin/Debug/netcoreapp3.0/RepresentationOfTree.dll
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/bin/Debug/netcoreapp3.0/RepresentationOfTree.pdb
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/obj/Debug/netcoreapp3.0/RepresentationOfTree.csprojAssemblyReference.cache
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/obj/Debug/netcoreapp3.0/RepresentationOfTree.AssemblyInfoInputs.cache
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/obj/Debug/netcoreapp3.0/RepresentationOfTree.AssemblyInfo.cs
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/obj/Debug/netcoreapp3.0/RepresentationOfTree.dll
+/Users/tanvir/Projects/RepresentationOfTree/RepresentationOfTree/obj/Debug/netcoreapp3.0/RepresentationOfTree.pdb
